@@ -1,1 +1,6 @@
-#!/bin/bash \n "ALX School is cool"
+
+
+
+#!/bin/bash 
+ echo "ALX school"
+
